@@ -1,0 +1,12 @@
+__pycache__/
+*.log
+*.tmp
+backups/
+logs/
+*.sh
+
+!src/
+!requirements.txt
+!Procfile
+!README.md
+!main.py
